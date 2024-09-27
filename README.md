@@ -1,14 +1,14 @@
-Auto task
+- Auto task
 
-Cần lấy lại token mỗi ngày
+- Cần lấy lại token mỗi ngày
 
 Hướng dẫn: 
 
-YÊU CẦU ĐÃ CÀI NODEJS
+**YÊU CẦU ĐÃ CÀI NODEJS**
 
 Chạy lệnh sau để cài các module cần thiết
 
-npm install
+**npm install**
 
 tạo 3 file data.txt, token.txt và proxy.txt nhé
 
